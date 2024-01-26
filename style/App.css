@@ -1,0 +1,51 @@
+#container{
+    margin: 20px 20px 20px 20px;
+    height:500px;
+    width:700px;
+    background-color: rgb(241, 241, 241);
+    border-radius: 20px;
+    padding: 20px;
+}
+#end{
+    display: flex;
+    justify-content: space-between;
+}
+#count{
+    width: 30px;
+}
+img{
+    width:100px;
+    height:150px;
+
+}
+#price{
+    margin-left: 200px;
+}
+ul{
+    list-style: none;
+}
+#stock{
+    text-align: end;
+}
+h1{
+    text-align: center;
+    background-color:rgb(171, 54, 54);
+}
+#stocks{
+     margin-left: 135px;
+     margin-top: 50px;
+}
+#pandr{
+    text-align: end;
+}
+#remove{
+    margin-top: 20px;
+}
+#middle{
+    display: flex;
+    justify-content: space-between;
+}
+#middle1{
+    display:flex;
+    justify-content: space-between;
+}
