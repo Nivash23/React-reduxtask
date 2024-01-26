@@ -50,7 +50,7 @@ function Cards({ ProductDetails }) {
         <div id="product">
           <div class="row">
             <div class="col-2">
-              <img src={ProductDetails.images} />
+              <img src={ProductDetails.thumbnail} />
             </div>
             <div class="col-6">
               <div class="row">
